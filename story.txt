@@ -1,2 +1,6 @@
 Paragraph 1
 Once upon a time, there was an xTeam with the number 96. This team was put together to use their programming knowledge to save the world! Join Quinn, Lathan, Matt, and Ruisu on their coding adventure.
+
+This x-team was the best x-team in all the land. But there was another x-team. X-team 54 wanted to take over the world as the best x-team ever.
+Our heroes couldn't stand this. They made a plan to write a java program to delete x-team 54...
+
