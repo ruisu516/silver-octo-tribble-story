@@ -1,0 +1,23 @@
+[33mcommit eb76912c83f028b5135031c58b71aa26af51a20d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ruisu Zhang <ruisu@royal-30.cs.wisc.edu>
+Date:   Thu Oct 10 22:12:09 2019 -0500
+
+    ruisu addition
+
+[33mcommit 5be4f5f805b378ac15d5b5e3039e44391107b356[m
+Author: lathan1623 <lhay@wisc.edu>
+Date:   Wed Oct 9 13:03:30 2019 -0500
+
+    lathan hay addition
+
+[33mcommit a382fcc1640b554b8b8878e3b6f3fb962baf9294[m
+Author: Quinn Cassidy <qcassidy@royal-30.cs.wisc.edu>
+Date:   Wed Oct 9 12:56:50 2019 -0500
+
+    Quinn added paragraph 1
+
+[33mcommit 737e997243072edde52df06df9baa5cf43965924[m
+Author: Ruisu Zhang <ruisu@royal-23.cs.wisc.edu>
+Date:   Wed Oct 2 12:47:57 2019 -0500
+
+    commit ruisu
