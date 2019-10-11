@@ -4,3 +4,7 @@ Once upon a time, there was an xTeam with the number 96. This team was put toget
 This x-team was the best x-team in all the land. But there was another x-team. X-team 54 wanted to take over the world as the best x-team ever.
 Our heroes couldn't stand this. They made a plan to write a java program to delete x-team 54...
 
+But...
+It seems that it's never a cool idea to delete other team's work.
+They still wanted to be the best team though.
+
